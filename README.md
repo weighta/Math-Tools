@@ -8,8 +8,8 @@ C# Software for testing out mathematical functions such as, trigonometry, bitwis
 ![GUI](https://i.imgur.com/vxa1oZ9.png)
 ![GUI](https://i.imgur.com/oKlZF0o.png)
 ### Trigonometry Boxes
-#### [GUI](https://i.imgur.com/tPXVVrE.png)
+![GUI](https://i.imgur.com/tPXVVrE.png)
 ### Xephyr_Toolz
-#### [GUI](https://i.imgur.com/679UQ4L.png)
+![GUI](https://i.imgur.com/679UQ4L.png)
 ### LukasartsTracer
-#### [GUI](https://i.imgur.com/9Xt5UqK.png)
+![GUI](https://i.imgur.com/9Xt5UqK.png)
