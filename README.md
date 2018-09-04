@@ -3,11 +3,11 @@ C# Software for testing out mathematical functions such as, trigonometry, bitwis
 
 ### Magic 9 Ball
 ![GUI](https://i.imgur.com/5SXEa0m.png)
-### Trigonomtry
+### Trigonometry
 ![GUI](https://i.imgur.com/L8N8ZqC.png)
 ![GUI](https://i.imgur.com/vxa1oZ9.png)
 ![GUI](https://i.imgur.com/oKlZF0o.png)
-### Trigonomtry Boxes
+### Trigonometry Boxes
 #### [GUI](https://i.imgur.com/tPXVVrE.png)
 ### Xephyr_Toolz
 #### [GUI](https://i.imgur.com/679UQ4L.png)
