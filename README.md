@@ -12,5 +12,4 @@ C# Software for testing out mathematical functions such as, trigonometry, bitwis
 ### Xephyr_Toolz
 ![GUI](https://i.imgur.com/679UQ4L.png)
 ### LukasartsTracer
-#### [Documentation](https://docs.google.com/document/d/1-rwqaYM-lrhyuJWOGeTkFBW_upu6dDyOH1vI89z_wEk/edit?usp=sharing)
 ![GUI](https://i.imgur.com/9Xt5UqK.png)
